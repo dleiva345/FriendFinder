@@ -1,6 +1,6 @@
 # Friend Finder Application
 
-Friend Finder is a Node Express base web application that helps user's find a compatible friend based on a series of questions that they answer 
+Friend Finder is a Node Express base web application that helps user's find a compatible friend based on a series of questions that they answer. This application is currently non-functional  
 
 ## Getting Started
 
