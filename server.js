@@ -3,7 +3,7 @@
 // npm packages 
 var express = require("express");
 var bodyParser = require("body-parser");
-var path = require("path");
+
 //Creating an "express" server
 var app = express();
 
@@ -20,8 +20,8 @@ app.use(bodyParser.json());
 // These routes give our server a "map" of how to respond when users visit or request data from various URLs.
 // ================================================================================
 
-require("app/routing/apiRoutes.js")(app);
-require("app/routing/htmlRoutes.js")(app);
+require("./app/routing/apiRoutes.js")(app);
+require("./app/routing/htmlRoutes.js")(app);
 
 // =============================================================================
 // LISTENER
