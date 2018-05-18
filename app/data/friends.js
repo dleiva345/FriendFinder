@@ -6,18 +6,18 @@ var friendsData = [{
     name: "Debbie",
     photo: "https://media.giphy.com/media/l2JJKf9FoUoUYJdqE/giphy.gif",
     scores: [
-        3,
-        4,
-        5,
         1,
-        5,
-        3,
-        4,
-        5,
-        3,
-        5
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
     ] 
 
 }]
 //Export friendsData array to make it accesible to other files using require
-module.exports = friendsData
+module.exports = friendsData;
