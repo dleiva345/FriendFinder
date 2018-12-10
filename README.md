@@ -4,7 +4,7 @@ Friend Finder is a Node Express base web application that helps user's find a co
 
 ## Getting Started
 
-    https://friend-finder-a.herokuapp.com/
+   Click Demo[https://friend-finder-a.herokuapp.com/]
 
 ### Prerequisites
    * Node.Js Already Installed
